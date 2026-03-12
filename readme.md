@@ -6,7 +6,7 @@
 ## Как использовать
 
 > 1. Скачиваешь [последний резиз](https://github.com/zavarich/CustomChromeTab/releases).
-> 2. Распаковываешь в любое место на свем ПК.
+> 2. Распаковываешь в любое место на своем ПК.
 > 3. Заходишь в "Расширения" ``` chrome://extensions/ ```
 > 4. В правом верхнем углу будет тумблер "Режим разработчика", включи его.<br>
 > <img src="./readme/4step.png" /><br>
@@ -23,5 +23,6 @@
 
 ## Социальные интерактивы
 
-[![Twitch - Cuburuka](https://img.shields.io/badge/Twitch-Cuburuka-blueviolet?logo=twitch&logoColor=white)](https://twitch.tv/cuburuka)
-[![YouTube  - Cuburuka](https://img.shields.io/badge/YouTube_-Cuburuka-ff2222?logo=youtube&logoColor=white)](https://youtube.com/@zavarichru)
+[![Discord - ZavarichRU](https://img.shields.io/badge/Discord-ZavarichRU-5865F2?logo=discord&logoColor=white)](https://discord.gg/ZmBKFjvhZp)
+[![YouTube - Zavarich](https://img.shields.io/badge/YouTube-Zavarich-FF0033?logo=youtube&logoColor=white)](https://youtube.com/@ZavarichRU)
+[![Twitch - Cuburuka](https://img.shields.io/badge/Twitch-Cuburuka-9146FF?logo=twitch&logoColor=white)](https://twitch.tv/cuburuka)
